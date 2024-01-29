@@ -1,4 +1,4 @@
-public class Main {
+public class assign8 {
     public static void main(String[] args) {
         System.out.println("Hello, This Is Rodney!");
 
